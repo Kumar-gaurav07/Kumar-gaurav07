@@ -1,5 +1,6 @@
 ### प्रणिपात  🙏
 [![](https://img.shields.io/badge/LinkedIn-iamkumargaurav-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/iamkumar-gaurav/)
+[![](https://img.shields.io/badge/Hotmail-iamkumar_gaurav@hotmail.com-red?logo=Microsoft%20outlook&logoColor=Red&labelColor=black)](iamkumar_gaurav@hotmail.com)
 [![](https://img.shields.io/badge/Telegram-%40iamkumargaurav-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/iamkumargaurav)
 [![](https://img.shields.io/badge/HackerRank-@iamkumar_gaurav-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/iamkumar_gaurav)
 
