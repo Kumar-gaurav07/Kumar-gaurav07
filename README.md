@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently attending MLH(Major League Hacking)
 <img src="https://github-readme-stats.vercel.app/api?username=iamkumar-gaurav&&show_icons=true&theme=vue-dark">
 
