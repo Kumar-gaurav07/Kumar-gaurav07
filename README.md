@@ -5,6 +5,7 @@
 [![](https://img.shields.io/badge/HackerRank-@iamkumar_gaurav-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/iamkumar_gaurav)
 
 
+
 <!--
 **Kumar-gaurav07/Kumar-gaurav07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,4 +24,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently attending MLH(Major League Hacking)
 <img src="https://github-readme-stats.vercel.app/api?username=iamkumar-gaurav&&show_icons=true&theme=vue-dark">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkumar-gaurav&theme=vue-dark">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkumar-gaurav&layout=compact&theme=vue-dark)](https://github.com/iamkumar-gaurav/github-readme-stats)
+
