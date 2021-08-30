@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 - Attended MLH(Major League Hacking)
-- - 🌱 I’m currently learning Google Data Analytics Professional Certificate.
+- 🌱 I’m currently learning Google Data Analytics Professional Certificate.
 <img src="https://github-readme-stats.vercel.app/api?username=iamkumar-gaurav&&show_icons=true&theme=vue-dark">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkumar-gaurav&layout=compact&theme=vue-dark)](https://github.com/iamkumar-gaurav/github-readme-stats)
